@@ -25,3 +25,4 @@ prefiere u ordenar todo en orden alfabético, ya sea ascendente o descendente.
 > Iniciar Nuevo Concurso - 
 Borra todos los registros y permite al usuario reiniciar todos los procesos dentro del programa.
 
+-> Se añade un .rar con el proyecto comprimido.
